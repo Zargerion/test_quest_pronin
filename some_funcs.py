@@ -145,4 +145,4 @@ analyzer.find_palindromes()
 # Special character count: 2
 # count_special_characters execution time: 0.0 seconds
 # Palindromes: Level, kayak, madam, radar
-# find_palindromes execution time: 0.0 seconds
+# find_palindromes execution time: 0.0 seconds //
